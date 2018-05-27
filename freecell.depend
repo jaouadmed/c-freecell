@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1525258386 source:/mnt/Disque local/ii__bdcc/s2/Structures/code/freecell/freecell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pile.c"
+	"pile.h"
+
+1524592910 /mnt/Disque local/ii__bdcc/s2/Structures/code/freecell/freecell/pile.h
+
+1524617533 /mnt/Disque local/ii__bdcc/s2/Structures/code/freecell/freecell/pile.c
+	"pile.h"
+	<string.h>
+
