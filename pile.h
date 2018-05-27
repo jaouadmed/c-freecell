@@ -12,6 +12,7 @@ typedef struct card{
     short color;
 }Card;
 
+//sorry it's a stack
 typedef struct queue{
     Card data;
     struct queue* next;
